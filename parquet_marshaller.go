@@ -1,9 +1,9 @@
 package deltago
 
 import (
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/internal/util/parquet"
 	"github.com/fraugster/parquet-go/floor/interfaces"
+	"github.com/mrchypark/delta-go/action"
+	"github.com/mrchypark/delta-go/internal/util/parquet"
 )
 
 type actionMarshaller struct {

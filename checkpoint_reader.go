@@ -3,11 +3,11 @@ package deltago
 import (
 	"context"
 
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/internal/util/path"
-	"github.com/csimplestring/delta-go/iter"
 	goparquet "github.com/fraugster/parquet-go"
 	"github.com/fraugster/parquet-go/floor/interfaces"
+	"github.com/mrchypark/delta-go/action"
+	"github.com/mrchypark/delta-go/internal/util/path"
+	"github.com/mrchypark/delta-go/iter"
 	"github.com/rotisserie/eris"
 	"gocloud.dev/blob"
 	_ "gocloud.dev/blob/azureblob"

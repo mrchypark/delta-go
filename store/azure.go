@@ -9,9 +9,9 @@ import (
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob"
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/blob"
 	"github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/bloberror"
-	"github.com/csimplestring/delta-go/errno"
-	"github.com/csimplestring/delta-go/internal/util/path"
-	"github.com/csimplestring/delta-go/iter"
+	"github.com/mrchypark/delta-go/errno"
+	"github.com/mrchypark/delta-go/internal/util/path"
+	"github.com/mrchypark/delta-go/iter"
 
 	goblob "gocloud.dev/blob"
 	_ "gocloud.dev/blob/azureblob"

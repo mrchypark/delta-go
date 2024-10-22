@@ -7,12 +7,12 @@ import (
 	"strings"
 
 	"github.com/barweiss/go-tuple"
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/errno"
-	"github.com/csimplestring/delta-go/internal/util"
-	"github.com/csimplestring/delta-go/iter"
-	"github.com/csimplestring/delta-go/store"
-	expr "github.com/csimplestring/delta-go/types"
+	"github.com/mrchypark/delta-go/action"
+	"github.com/mrchypark/delta-go/errno"
+	"github.com/mrchypark/delta-go/internal/util"
+	"github.com/mrchypark/delta-go/iter"
+	"github.com/mrchypark/delta-go/store"
+	expr "github.com/mrchypark/delta-go/types"
 	"github.com/rotisserie/eris"
 )
 

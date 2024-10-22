@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	delta "github.com/csimplestring/delta-go"
+	delta "github.com/mrchypark/delta-go"
 )
 
 func TestGCSLogStoreExample(t *testing.T) {

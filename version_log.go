@@ -1,9 +1,9 @@
 package deltago
 
 import (
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/iter"
-	"github.com/csimplestring/delta-go/store"
+	"github.com/mrchypark/delta-go/action"
+	"github.com/mrchypark/delta-go/iter"
+	"github.com/mrchypark/delta-go/store"
 )
 
 type VersionLog interface {

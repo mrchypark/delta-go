@@ -3,12 +3,12 @@ package deltago
 import (
 	"testing"
 
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/errno"
-	"github.com/csimplestring/delta-go/internal/util"
-	"github.com/csimplestring/delta-go/iter"
-	"github.com/csimplestring/delta-go/op"
-	"github.com/csimplestring/delta-go/types"
+	"github.com/mrchypark/delta-go/action"
+	"github.com/mrchypark/delta-go/errno"
+	"github.com/mrchypark/delta-go/internal/util"
+	"github.com/mrchypark/delta-go/iter"
+	"github.com/mrchypark/delta-go/op"
+	"github.com/mrchypark/delta-go/types"
 	"github.com/stretchr/testify/assert"
 )
 

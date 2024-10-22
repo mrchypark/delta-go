@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/internal/util/path"
-	"github.com/csimplestring/delta-go/iter"
+	"github.com/mrchypark/delta-go/action"
+	"github.com/mrchypark/delta-go/internal/util/path"
+	"github.com/mrchypark/delta-go/iter"
 )
 
 type InMemoryLogReplay struct {

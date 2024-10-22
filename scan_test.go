@@ -6,11 +6,11 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/internal/util/filenames"
-	"github.com/csimplestring/delta-go/iter"
-	"github.com/csimplestring/delta-go/op"
-	"github.com/csimplestring/delta-go/types"
+	"github.com/mrchypark/delta-go/action"
+	"github.com/mrchypark/delta-go/internal/util/filenames"
+	"github.com/mrchypark/delta-go/iter"
+	"github.com/mrchypark/delta-go/op"
+	"github.com/mrchypark/delta-go/types"
 	"github.com/repeale/fp-go"
 	"github.com/stretchr/testify/assert"
 )

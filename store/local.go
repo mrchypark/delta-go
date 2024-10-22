@@ -9,9 +9,9 @@ import (
 	"gocloud.dev/blob"
 	_ "gocloud.dev/blob/fileblob"
 
-	"github.com/csimplestring/delta-go/errno"
-	"github.com/csimplestring/delta-go/internal/util/path"
-	"github.com/csimplestring/delta-go/iter"
+	"github.com/mrchypark/delta-go/errno"
+	"github.com/mrchypark/delta-go/internal/util/path"
+	"github.com/mrchypark/delta-go/iter"
 )
 
 func NewFileLogStore(logDirUrl string) (*LocalStore, error) {

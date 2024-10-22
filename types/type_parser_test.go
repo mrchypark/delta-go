@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/csimplestring/delta-go/errno"
+	"github.com/mrchypark/delta-go/errno"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,8 +5,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/csimplestring/delta-go/errno"
 	mapset "github.com/deckarep/golang-set/v2"
+	"github.com/mrchypark/delta-go/errno"
 	"github.com/repeale/fp-go"
 	"github.com/samber/mo"
 )

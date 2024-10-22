@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/csimplestring/delta-go/action"
-	"github.com/csimplestring/delta-go/errno"
-	"github.com/csimplestring/delta-go/internal/util"
-	"github.com/csimplestring/delta-go/internal/util/filenames"
+	"github.com/mrchypark/delta-go/action"
+	"github.com/mrchypark/delta-go/errno"
+	"github.com/mrchypark/delta-go/internal/util"
+	"github.com/mrchypark/delta-go/internal/util/filenames"
 	"github.com/repeale/fp-go"
 	"github.com/stretchr/testify/assert"
 )
